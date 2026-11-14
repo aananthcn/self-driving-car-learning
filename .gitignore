@@ -1,4 +1,8 @@
+# folders to ignore
 venv/
 data/
 tf_logs/
+ref/
+
+# files
 checkpoint
